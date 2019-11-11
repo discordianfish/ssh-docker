@@ -1,4 +1,4 @@
 ssh-docker
 ==========
 
-just ubuntu + ssh with entrypoint reading root's authorized_keys from $@
+just alpine + ssh with entrypoint reading root's authorized_keys from $@
